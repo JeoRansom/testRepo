@@ -1,5 +1,6 @@
 # Test Test DEMO Flie
 
--  Paragraph 1
-- Paragraph 2
-- Paragraph 3
+We shall try using all commands
+We shall try sharing access to a particular project
+we shall try moving from developer to Checkout at some stage
+we she Repeat until we obtain a varried-display of a portfollio.
